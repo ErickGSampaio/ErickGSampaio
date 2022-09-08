@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="gitconfigs">
+ <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickGSampaio&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGSampaio&layout=compact&title_color=fff&text_color=fff&bg_color=151515"/>
+</div>
 
 <!--
 **ErickGSampaio/ErickGSampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
